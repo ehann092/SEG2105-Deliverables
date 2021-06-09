@@ -1,5 +1,5 @@
 # SEG2105-Deliverables
 Annique Granchelli
 Nazia Syed 
-Alara Osken
+Alara Oskan
 Erika Hanner
